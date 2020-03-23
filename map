@@ -1,0 +1,3 @@
+git clone http://github.com/mthh/smoomapy.git
+cd smoomapy/
+python setup.py install
